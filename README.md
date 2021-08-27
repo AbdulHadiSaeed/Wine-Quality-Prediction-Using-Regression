@@ -22,3 +22,7 @@ RIDGE_TRAIN_SCORE:
 
 RIDGE_TEST_SCORE:
 0.813
+
+
+You can download the DataSet from this link.
+https://drive.google.com/drive/folders/12YkyEacev1IhASZEPKwDIKNhYOgLDWfS?usp=sharing
